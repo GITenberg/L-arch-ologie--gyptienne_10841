@@ -1,0 +1,34 @@
+_repo: L-arch-ologie--gyptienne_10841
+_version: 0.0.1
+alternative_title: L'archeologie egyptienne
+creator:
+  author:
+    agent_name: Maspero, G. (Gaston)
+    alias: Maspero, Gaston Camille Charles, Sir
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '3672'
+    url: http://www.gutenberg.org/2009/agents/3672
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Maspero
+description: ''
+gutenberg_bookshelf:
+- Egypt
+- FR Sciences et Techniques
+- FR Voyages et pays
+- Archaeology
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10841'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Egypt -- Antiquities'
+- !lcsh 'Art -- Egypt'
+- !lcc 'DT'
+- GITenberg
+title: L'archéologie égyptienne
+url: http://www.gutenberg.org/ebooks/10841
